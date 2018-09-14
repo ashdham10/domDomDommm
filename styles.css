@@ -1,0 +1,14 @@
+buttonBox {
+    height: 100px;
+    width: auto;
+}
+.boxes {
+    width: 150px;
+    height: 150px;
+    background: black;
+    float: left;
+    margin: 10px;
+    color: white;
+    text-align: center;
+    line-height: 150px;
+}
